@@ -1,0 +1,7 @@
+echo "# Naruto" >> README.md 
+git init 
+git add README.md 
+git commit -m "first commit" 
+git remote add origin https://github.com/AlimTa77777/Naruto.git
+ git push -u own 
+ 
